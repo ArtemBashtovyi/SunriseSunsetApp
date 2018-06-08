@@ -11,3 +11,4 @@ Usage :
 - Retrofit2.0(api calls) 
 - OkHttp
 - Moxy(MVP) // Can be raplaced by Loader(presenter storing)
+- Leak Canary(easy tool for finding leaks) + Android Profiler(to find origin of leaks)
