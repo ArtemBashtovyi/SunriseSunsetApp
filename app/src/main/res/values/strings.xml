@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SunriseSunset</string>
+    <string name="tab_text_1">My Location</string>
+    <string name="tab_text_2">Find Location</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="sunset_text_view_text">Sunset</string>
+    <string name="sunrise_text_view_text">Sunrise</string>
+    <string name="day_length_text_view_text">Day Length</string>
+    <string name="button_name">Find Me</string>
+
+
+</resources>
